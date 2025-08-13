@@ -26,7 +26,7 @@ Now enhanced with **SQLite database integration** for persistent storage and **J
 - **Gson** (JSON processing)
 
 ---
-# 📖 Project Overview
+## 📖 Project Overview
 
 The Personal Task Manager is a JavaFX-based desktop application designed to help users efficiently manage their daily tasks.
 It provides a clean and interactive graphical interface where users can add, view, edit, delete, and search tasks with ease.
