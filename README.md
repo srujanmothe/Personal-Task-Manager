@@ -1,5 +1,38 @@
 # Personal-Task-Manager
 
+# 📌 Personal Task Manager (JavaFX + SQLite + Gson)
+
+A simple yet powerful **JavaFX-based Personal Task Manager** that lets you create, manage, search, and sort your tasks.  
+Now enhanced with **SQLite database integration** for persistent storage and **JSON export/import** using Gson.
+
+---
+
+## ✨ Features
+
+- ✅ Add, view, edit, and delete tasks
+- ✅ Mark tasks as completed
+- ✅ Sort by **due date** or **priority**
+- ✅ Search by **keyword**, **status**, or **priority**
+- ✅ View **overdue tasks**
+- 🌙 Dark mode (optional theme)
+- 💾 Persistent storage in **SQLite Database**
+- 📤 Export and import tasks in **JSON** format
+
+---
+
+## 🛠️ Tech Stack
+
+- **Java** (JDK 21+ recommended)
+- **JavaFX** (UI framework)
+- **SQLite** (Database)
+- **Gson** (JSON processing)
+
+---
+
+## 📂 Project Structure
+
+
+
 📖 Project Overview
 The Personal Task Manager is a JavaFX-based desktop application designed to help users efficiently manage their daily tasks.
 It provides a clean and interactive graphical interface where users can add, view, edit, delete, and search tasks with ease.
